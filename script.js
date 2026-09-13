@@ -23,7 +23,3 @@ document.getElementById("members").innerHTML =
 
 document.getElementById("active").innerHTML =
     `🟢 ${active.toLocaleString()} Active`;
-
-changeBackground();
-
-setInterval(changeBackground, 3000);
