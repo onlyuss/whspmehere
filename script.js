@@ -10,18 +10,6 @@ document.getElementById("tgBtn").href =
 
 let index = 0;
 
-function changeBackground() {
-
-    document.body.style.backgroundImage =
-        `url(${config.backgrounds[index]})`;
-
-    index++;
-
-    if (index >= config.backgrounds.length) {
-        index = 0;
-    }
-}
-
 const members = 15472;
 
 const active =
