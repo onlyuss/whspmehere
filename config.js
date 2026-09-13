@@ -1,9 +1,8 @@
 const config = {
-    profileImage: "profil.jpeg",
+    profileImage: "prfl1.jpeg",
 
     backgrounds: [
-        "bg1.jpeg",
-        "bg2.jpeg"
+        "back1.jpeg",
     ],
 
     whatsappLink: "https://kereva.heavengiirls.com/?utm_source=da57dc555e50572d&ban=fb&j1=1&s1=236468&s2=2173856&click_id=Apocallypse",
