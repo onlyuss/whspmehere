@@ -15,10 +15,11 @@ body {
 
     padding-top: 100px;
 
-    background: black;
+    background: url("back1.jpeg");
 
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
 
 }
 
